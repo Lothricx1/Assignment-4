@@ -1,0 +1,70 @@
+Prescription ID: 101
+First Name: Reza
+Last Name: Pratama
+Address: 169 Spencer Street, CBD, 3000, Australia
+Sphere: -2.0
+Cylinder: -1.5
+Axis: 90.0
+Examination Date: Tue Oct 22 06:48:41 AEDT 2024
+Optometrist: Dr. Octopus
+
+Prescription ID: 101
+First Name: Reza
+Last Name: Pratama
+Address: 169 Spencer Street, CBD, 3000, Australia
+Sphere: -2.0
+Cylinder: -1.5
+Axis: 90.0
+Examination Date: Tue Oct 22 06:49:11 AEDT 2024
+Optometrist: Dr. Octopus
+
+Prescription ID: 101
+First Name: Reza
+Last Name: Pratama
+Address: 169 Spencer Street, CBD, 3000, Australia
+Sphere: -2.0
+Cylinder: -1.5
+Axis: 90.0
+Examination Date: Tue Oct 22 06:49:13 AEDT 2024
+Optometrist: Dr. Octopus
+
+Prescription ID: 101
+First Name: Reza
+Last Name: Pratama
+Address: 169 Spencer Street, CBD, 3000, Australia
+Sphere: -2.0
+Cylinder: -1.5
+Axis: 90.0
+Examination Date: Tue Oct 22 09:37:18 AEDT 2024
+Optometrist: Dr. Octopus
+
+Prescription ID: 101
+First Name: Reza
+Last Name: Pratama
+Address: 169 Spencer Street, CBD, 3000, Australia
+Sphere: -2.0
+Cylinder: -1.5
+Axis: 90.0
+Examination Date: Tue Oct 22 09:38:19 AEDT 2024
+Optometrist: Dr. Octopus
+
+Prescription ID: 101
+First Name: Reza
+Last Name: Pratama
+Address: 169 Spencer Street, CBD, 3000, Australia
+Sphere: -2.0
+Cylinder: -1.5
+Axis: 90.0
+Examination Date: Wed Oct 23 02:56:24 AEDT 2024
+Optometrist: Dr. Octopus
+
+Prescription ID: 101
+First Name: Reza
+Last Name: Pratama
+Address: 169 Spencer Street, CBD, 3000, Australia
+Sphere: -2.0
+Cylinder: -1.5
+Axis: 90.0
+Examination Date: Wed Oct 23 03:40:44 AEDT 2024
+Optometrist: Dr. Octopus
+

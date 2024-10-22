@@ -1,0 +1,88 @@
+Prescription ID: 101
+Category: client
+Remark: This is a remark for the prescription from the client.
+
+Prescription ID: 101
+Category: optometrist
+Remark: The optometrist suggests a follow-up in six months.
+
+Prescription ID: 101
+Category: client
+Remark: This is a remark for the prescription from the client.
+
+Prescription ID: 101
+Category: optometrist
+Remark: The optometrist suggests a follow-up in six months.
+
+Prescription ID: 101
+Category: client
+Remark: This is a remark for the prescription from the client.
+
+Prescription ID: 101
+Category: optometrist
+Remark: The optometrist suggests a follow-up in six months.
+
+Prescription ID: 101
+Category: client
+Remark: This is a remark for the prescription from the client.
+
+Prescription ID: 101
+Category: optometrist
+Remark: The optometrist suggests a follow-up in six months.
+
+Prescription ID: 101
+Category: client
+Remark: This is a remark for the prescription from the client.
+
+Prescription ID: 101
+Category: optometrist
+Remark: The optometrist suggests a follow-up in six months.
+
+Prescription ID: 101
+Category: client
+Remark: This is a remark for the prescription from the client.
+
+Prescription ID: 101
+Category: optometrist
+Remark: The optometrist suggests a follow-up in six months.
+
+Prescription ID: 101
+Category: client
+Remark: This is a remark for the prescription from the client.
+
+Prescription ID: 101
+Category: optometrist
+Remark: The optometrist suggests a follow-up in six months.
+
+Prescription ID: 101
+Category: client
+Remark: This is a remark for the prescription from the client.
+
+Prescription ID: 101
+Category: optometrist
+Remark: The optometrist suggests a follow-up in six months.
+
+Prescription ID: 101
+Category: client
+Remark: This is a valid remark for the prescription.
+
+Prescription ID: 101
+Category: client
+Remark: First valid remark for the prescription.
+
+Prescription ID: 101
+Category: optometrist
+Remark: Second valid remark for the prescription.
+
+Prescription ID: 101
+Category: client
+Remark: This is a valid remark for the prescription.
+
+Prescription ID: 101
+Category: client
+Remark: First valid remark for the prescription.
+
+Prescription ID: 101
+Category: optometrist
+Remark: Second valid remark for the prescription.
+
